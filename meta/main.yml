@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Reynn
+  description: Setup a Jenkins master running through Docker.
+
+  license: GPLv2
+
+  min_ansible_version: 2.0
+
+  galaxy_tags: []
+
+dependencies: []
